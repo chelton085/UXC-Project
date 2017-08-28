@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ultraxcoin
+Comment=ultraxcoin P2P Cryptocurrency
+Comment[fr]=ultraxcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ultraxcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/ultraxcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/ultraxcoin;
+Categories=Office;

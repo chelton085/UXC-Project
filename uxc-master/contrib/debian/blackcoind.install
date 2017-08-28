@@ -1,0 +1,2 @@
+debian/bin/ultraxcoind usr/bin
+src/ultraxcoind usr/lib/ultraxcoin

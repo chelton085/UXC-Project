@@ -1,0 +1,5 @@
+ultraxcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/ultraxcoin-qt.desktop usr/share/applications
+debian/ultraxcoin-qt.protocol usr/share/kde4/services/
